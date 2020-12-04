@@ -7,6 +7,10 @@ dependencies:
   - hvplot
   - xhistogram
   - pandas
+  - intake
+  - intake-xarray
+  - curl
+  - seaborn
   - zarr
   - pip
   - pip:
